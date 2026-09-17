@@ -1,6 +1,6 @@
-# Hi, I'm Mohit Patel 👋
+# Hi, I'm Mohit 👋
 
-### BCA Graduate | Aspiring Data Analyst
+### BCA Graduate | Pursuing MCA at Invertis University Bareilly 
 
 I'm interested in Data Analytics, Python, SQL and Power BI.
 Currently learning and building projects to improve my technical and analytical skills.
@@ -23,14 +23,7 @@ Currently learning and building projects to improve my technical and analytical 
 - Python for Data Analysis
 - Power BI
 
-### 🚀 Projects
-
-- Sales Data Analysis
-- Customer Data Analysis
-- Power BI Dashboard
-- Python Data Analysis
-
 ### 🔗 Connect With Me
 
-- LinkedIn: Your LinkedIn Link
-- GitHub: Your GitHub Profile
+LinkedIn Profile: 
+https://www.linkedin.com/in/mohit-patel58
