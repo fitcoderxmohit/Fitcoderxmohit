@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohit Patel 👋
 
-<!--
-**fitcoderxmohit/Fitcoderxmohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm interested in Data Analytics, Python, SQL and Power BI.
+Currently learning and building projects to improve my technical and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Git & GitHub
+
+### 📊 What I'm Learning
+
+- Data Analytics
+- Data Visualization
+- SQL
+- Python for Data Analysis
+- Power BI
+
+### 🚀 Projects
+
+- Sales Data Analysis
+- Customer Data Analysis
+- Power BI Dashboard
+- Python Data Analysis
+
+### 🔗 Connect With Me
+
+- LinkedIn: Your LinkedIn Link
+- GitHub: Your GitHub Profile
